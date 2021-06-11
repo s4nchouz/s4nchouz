@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Motherfuckers 👋
 
 <!--
 **s44khin/s44khin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
